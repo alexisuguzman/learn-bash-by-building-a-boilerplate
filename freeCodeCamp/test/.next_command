@@ -79,3 +79,4 @@ list -1
 ls --color=auto -1
 clear
 ls --color=auto -l
+cd has
