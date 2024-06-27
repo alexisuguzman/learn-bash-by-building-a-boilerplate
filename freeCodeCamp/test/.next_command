@@ -115,3 +115,4 @@ touch .gitignore
 ls --color=auto website
 ls --color=auto --help
 ls --color=auto -a
+cd .
