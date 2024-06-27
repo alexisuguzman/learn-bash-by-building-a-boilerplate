@@ -81,3 +81,10 @@ clear
 ls --color=auto -l
 cd has
 ls --color=auto
+code README.ms
+more README.ms
+clear
+mr README.md
+more REAMDE.md
+ls --color=auto
+more README.md
