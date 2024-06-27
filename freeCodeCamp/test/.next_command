@@ -66,3 +66,16 @@ clear
 ls --color=auto
 cd node_modules
 ls --color=auto
+ls --color=auto -1
+ls-1
+ls --color=auto -1
+clear
+ls --color=auto
+clear
+ls-1
+clear
+ls --color=auto -1
+list -1
+ls --color=auto -1
+clear
+ls --color=auto -l
