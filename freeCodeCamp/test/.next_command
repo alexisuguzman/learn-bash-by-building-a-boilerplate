@@ -199,3 +199,4 @@ rm images/background.jpg
 rm dir ../images
 rm images
 rmdir images
+ls --color=auto
