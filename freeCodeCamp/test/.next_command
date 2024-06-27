@@ -200,3 +200,4 @@ rm dir ../images
 rm images
 rmdir images
 ls --color=auto
+mkdir client/assets/icons
